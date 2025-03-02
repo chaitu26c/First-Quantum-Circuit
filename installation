@@ -1,0 +1,7 @@
+Installation & Usage
+Install Qiskit if you haven't already:
+by typing the pip command in terminal!
+
+->pip install qiskit
+
+this command helps to install qiskit and let u work on it.
